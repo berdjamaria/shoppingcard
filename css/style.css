@@ -1,0 +1,57 @@
+img{
+    height: 30%;
+    width: 15%;
+    border: 3px solid black;
+    
+
+}
+#box1{
+    display: flex;
+    justify-content:space-between;
+}
+#box2{
+    display: flex;
+    justify-content:space-between;
+}
+
+#box3{
+    display: flex;
+    justify-content:space-between;
+}
+#box4{
+    display: flex;
+    justify-content:space-between;
+}
+#boxmama{
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-top: 50px;
+}
+.shopping {
+    font-family:Stencil Std, fantasy ;
+    font-weight: bold;
+    text-align: center;
+    font-size: 50px;
+    border-bottom: 3px solid black;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+     margin-bottom: 0;
+}
+
+
+h1{
+    font-family: URW Chancery L, cursive;
+}
+h2{
+    font-family:Impact, fantasy;
+}
+body{
+background-color: beige;
+}
+.plus{
+    width: 30px;
+}
+
+.poubelle{
+    width: 50px;
+}
